@@ -59,13 +59,15 @@ function App() {
         {/* Nav bar without the extra margins */}
         <div className='text-white bg-transparent flex h-15 w-full justify-center items-center'>
           <div className='bg-transparent flex w-full h-full justify-start items-center'>
-            <button className='bg-zinc-900 py-2 px-4 rounded-full'>Resources</button>
+            <a href="https://github.com/starb1t0robotics-max" className='bg-zinc-900 py-2 px-4 rounded-full'>Resources</a>
           </div>
           <div className='bg-transparent flex w-full h-full justify-center items-center'>
-            <button className='bg-linear-to-r from-violet-900 via-indigo-800 to-indigo-700 py-2 px-4 rounded-full'>Donate</button>
+            <a href="https://www.paypal.com/donate/?hosted_button_id=S35PL35MXSEDN" className='bg-linear-to-r from-violet-900 via-indigo-800 to-indigo-700 py-2 px-4 rounded-full'>
+              Donate
+            </a>
           </div>
           <div className='bg-transparent flex w-full h-full justify-end items-center'>
-            <button className='bg-zinc-900 py-2 px-4 rounded-full'>Contact</button>
+            <a  href="https://linktr.ee/B1T0_Robotics?utm_source=linktree_profile_share&ltsid=f297f943-164a-4789-b35d-62fe737f8af0" className='bg-zinc-900 py-2 px-4 rounded-full'>Contact</a>
           </div>
         </div>
       </div>
