@@ -62,7 +62,7 @@ function App() {
             <a href="https://github.com/starb1t0robotics-max" className='bg-zinc-900 py-2 px-4 rounded-full'>Resources</a>
           </div>
           <div className='bg-transparent flex w-full h-full justify-center items-center'>
-            <a href="https://www.paypal.com/donate/?hosted_button_id=S35PL35MXSEDN" className='bg-linear-to-r from-violet-900 via-indigo-800 to-indigo-700 py-2 px-4 rounded-full'>
+            <a href="https://www.paypal.com/ncp/payment/VP8WB3GYUUH6W" className='bg-linear-to-r from-violet-900 via-indigo-800 to-indigo-700 py-2 px-4 rounded-full'>
               Donate
             </a>
           </div>
