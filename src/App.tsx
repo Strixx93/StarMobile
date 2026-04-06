@@ -283,7 +283,7 @@ function App() {
         <div className='w-full h-10 bg-transparent relative z-10'>
         </div>
         <div className='w-full h-20 bg-transparent flex flex-col justify-center items-center relative z-10'>
-          <p className='text-white text-xl'>Miheea Calaban | Ana Filimon</p>
+          <p className='text-white text-xl'>Miheea Calaban</p>
           <p className='text-white text-xl'>Dragos Constandin</p>
           <p className='text-zinc-200 text-xl'>--Programming--</p>
         </div>
